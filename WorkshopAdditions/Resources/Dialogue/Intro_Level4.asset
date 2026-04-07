@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a869661c6bd8404ca3478538aad535e4, type: 3}
+  m_Name: Intro_Level4
+  m_EditorClassIdentifier: 
+  lines:
+  - "Okay—deep breaths. You're in Level 4: The Workshop."
+  - "I've been told this is a 'safe space' for experimentation."
+  - "Which is funny, because the spikes didn't get the memo."
+  - "To your left: a Bounce Pad. It's basically enthusiasm with a collider."
+  - "Above you: Timed Platforms. They appear, they disappear… like my confidence."
+  - "Somewhere nearby: a Checkpoint. Touch it if you want the universe to remember you more fondly."
+  - "If you fall, don't panic. You'll be reassembled with surprising professionalism."
+  - "Try things. Break things. Name something 'FINAL_FINAL_2' and ship it anyway."
+  - "When you're ready, head for the goal. It's the polite little hole that ends the conversation."

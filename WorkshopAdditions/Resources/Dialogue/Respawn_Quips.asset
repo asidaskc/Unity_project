@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a869661c6bd8404ca3478538aad535e4, type: 3}
+  m_Name: Respawn_Quips
+  m_EditorClassIdentifier: 
+  lines:
+  - "Reconstructed. Rehydrated. Regretting."
+  - "I lived. Statistically impressive."
+  - "Respawned! Please clap quietly."
+  - "Death was a tutorial; I'm choosing to learn slowly."
+  - "Back again, like an unresolved bug."
+  - "New body, same questionable decisions."
+  - "Somewhere, a spike trap is rolling its eyes."
+  - "I have returned. The void is furious."
+  - "Turns out I'm on a subscription model."
+  - "Gravity: 1, Me: also 1. It's a tie."
+  - "Okay! That didn't count. I wasn't emotionally ready."
+  - "Respawn complete. Dignity not found."
+  - "I saw the afterlife. It had no checkpoints."
+  - "Note to self: don't do that again. (Will do it again.)"
+  - "Freshly respawned and already behind schedule."
+  - "This level has great replay value. Against my will."
+  - "Like a phoenix, but more rectangular."
+  - "I'm back. Please pretend you didn't see that."
+  - "Achievement unlocked: Persistent."
+  - "Some call it failure. I call it iteration."

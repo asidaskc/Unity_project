@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a869661c6bd8404ca3478538aad535e4, type: 3}
+  m_Name: TimedPlatforms_Anxiety
+  m_EditorClassIdentifier: 
+  lines:
+  - "Timed Platforms: the world's least committed furniture."
+  - "They will absolutely be there for you… for about 1.6 seconds."
+  - "Then they vanish. Not out of malice. Out of 'design'."
+  - "Tip: jump with intention. Hesitation is just gravity wearing a trench coat."
+  - "If you miss a beat, that's okay—there's a KillZone down there whose hobby is second chances."
+  - "And remember: if a platform disappears under you, it was never *yours*."
+  - "It was simply your turn."

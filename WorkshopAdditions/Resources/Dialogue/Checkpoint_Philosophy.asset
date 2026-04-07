@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a869661c6bd8404ca3478538aad535e4, type: 3}
+  m_Name: Checkpoint_Philosophy
+  m_EditorClassIdentifier: 
+  lines:
+  - "A checkpoint! A little memory you can borrow."
+  - "I touched it. The universe nodded."
+  - "If I die now, please notify my square relatives."
+  - "This is the part where the level forgives you. Briefly."
+  - "Saving progress: because character development is hard."
+  - "My past self left this here for my future self. What a hero."
+  - "Checkpoint acquired: anxiety reduced by 12%."
+  - "I feel… bookmarked."
+  - "Nothing says 'growth' like a new respawn point."

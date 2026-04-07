@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a869661c6bd8404ca3478538aad535e4, type: 3}
+  m_Name: Intro_Level5
+  m_EditorClassIdentifier: 
+  lines:
+  - "Level 5: 'Switchback Serenade.' (Yes, levels get titles. It's the law.)"
+  - "Good news: you’re stronger. Bad news: the level knows that."
+  - "See that moving platform? It’s not your friend. It’s just employed here."
+  - "Timed platforms ahead will blink in patterns. Try to blink less than they do."
+  - "And remember: checkpoints are like promises—meaningful only when kept."
